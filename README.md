@@ -1,4 +1,4 @@
-# WebsiteSeeker
+# WebsiteSeeker : Get Seekers and make your website go
 The project is developed in Python and can mail the screenshots of the websites that the user wants from the remote computers.<Br>
 This project uses cryptography to decrypt the passwords<br>
 And right now can only be used in Mozilla Firefox or Thunderbird or Nightly<br>
